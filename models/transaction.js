@@ -1,0 +1,51 @@
+module.exports = [
+  {
+    name: "income",
+    amount: 2600,
+    date: "07/09/2023",
+    from: "employer",
+    category: "income",
+  },
+  {
+    name: "saving",
+    amount: 1100,
+    date: "07/10/2023",
+    from: "bank",
+    category: "saving",
+  },
+  {
+    name: "kids tutoring",
+    amount: -700,
+    date: "07/11/2023",
+    from: "tutoring",
+    category: "education",
+  },
+  {
+    name: "tranformers toys",
+    amount: -50,
+    date: "07/11/2023",
+    from: "online toys store",
+    category: "income",
+  }, 
+  {
+    name: "food",
+    amount: -150,
+    date: "07/12/2023",
+    from: "trader joe",
+    category: "grocery",
+  },
+  {
+    name: "gas",
+    amount: -50,
+    date: "07/13/2023",
+    from: "BP",
+    category: "gas",
+  },
+  {
+    name: "gym",
+    amount: -50,
+    date: "07/13/2023",
+    from: "LA Fitness",
+    category: "fitness",
+  },
+];
